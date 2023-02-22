@@ -9,4 +9,3 @@ spec:
     - namespace: '*'
       name: '*'
       server: '*'
-
